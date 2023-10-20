@@ -1,0 +1,6 @@
+framework module RDatePicker {
+  umbrella header "RDatePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

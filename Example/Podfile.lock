@@ -1,0 +1,16 @@
+PODS:
+  - RDatePicker (0.1.0)
+
+DEPENDENCIES:
+  - RDatePicker (from `../`)
+
+EXTERNAL SOURCES:
+  RDatePicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RDatePicker: 262a719f12246938f90d6cc76bceefc10a27f949
+
+PODFILE CHECKSUM: 0b98af65de8cd59286662597d807774c6b872d70
+
+COCOAPODS: 1.13.0
